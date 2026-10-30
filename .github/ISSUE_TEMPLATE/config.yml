@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://docs.logbrew.co
+    about: Setup guides, SDK references, and troubleshooting.
+  - name: Account or billing help
+    url: https://docs.logbrew.co/guides/report-a-problem
+    about: Create a support ticket for problems with your account or projects.

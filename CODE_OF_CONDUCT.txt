@@ -1,0 +1,21 @@
+LogBrew code of conduct
+
+This applies to everyone who takes part in LogBrew repositories, issues, pull
+requests, and discussions.
+
+Be respectful. Disagree with ideas, not people. Assume good intent, and give
+others room to be new at something.
+
+These are not allowed:
+
+- harassment, insults, or personal attacks
+- sexual language or imagery, and unwelcome attention
+- discrimination of any kind
+- publishing someone's private information without their permission
+- spam, and repeated off-topic posts after a maintainer asked you to stop
+
+Maintainers may edit or remove comments, commits, and issues that break these
+rules, and may block people who keep breaking them.
+
+Report a problem to support@logbrew.co. We read every report and keep the
+reporter's identity private.
