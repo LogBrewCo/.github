@@ -23,6 +23,10 @@ For a security problem, follow the [security policy](SECURITY.md) instead.
 5. Write commit messages in the Conventional Commits style, for example
    `fix(cli): keep the project flag when paging`.
 6. Open a pull request that says what changed and why, and how you tested it.
+7. Before a pull request merges, its required checks must pass on a branch
+   that is up to date with `main`, and every review conversation must be
+   resolved. Pull requests merge by rebase or squash, so `main` has no merge
+   commits.
 
 Every pull request runs a public guard scan that blocks secrets, private
 paths, and similar content. If it flags your change, remove the flagged text.
